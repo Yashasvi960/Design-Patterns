@@ -1,4 +1,4 @@
-package org.example.factoryPattern;
+package factoryPattern;
 
 public interface Shape {
 
