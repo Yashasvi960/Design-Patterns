@@ -1,7 +1,7 @@
 package org.example;
 
-import factoryPattern.Shape;
-import factoryPattern.ShapeFactory;
+import creationalPattern.factoryPattern.Shape;
+import creationalPattern.factoryPattern.ShapeFactory;
 
 public class Main {
     public static void main(String[] args) {
